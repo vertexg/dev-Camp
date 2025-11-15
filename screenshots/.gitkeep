@@ -1,0 +1,15 @@
+# Screenshots Directory
+
+This directory contains screenshots for the Route53 hands-on tutorial.
+
+## Module 1 Screenshots
+
+- 01-route53-dashboard.png - Route53 dashboard view
+- 02-create-hosted-zone.png - Hosted zone creation form
+- 03-hosted-zone-created.png - Created hosted zone with NS and SOA records
+- 04-create-a-record.png - A record creation form
+- 05-create-cname-record.png - CNAME record creation form
+- 06-create-mx-record.png - MX record creation form
+- 07-records-list.png - List of all created records
+- 08-delete-records.png - Record deletion confirmation
+- 09-delete-hosted-zone.png - Hosted zone deletion confirmation
